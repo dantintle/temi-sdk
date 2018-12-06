@@ -42,7 +42,7 @@ allprojects {
 ```
 dependencies {
 	...
-    implementation 'com.robotemi:temi-sdk-usa:0.8.1_beta'
+    implementation 'com.robotemi:temi-sdk-usa:0.9.1'
 }
 ```
 
