@@ -53,7 +53,7 @@ protected Class getMainServiceClassName() {
 ```
 <activity
 	android:name=”.BootActivity”
-android:theme=”@android:style/Theme.Translucent.NoTitleBar.Fullscreen>
+android:theme=”@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
 	<intent-filter>
 		<action android:name=”android.intent.action.MAIN” />
 
